@@ -1,7 +1,9 @@
 # top-down-zombie-raylib
 
 # About
-Top Down 2D Zombie game that can be played one or two player mode locally
+A 2D top-down zombie survival game with local multiplayer support, featuring multiple weapons, perks, and quest systems.
+
+> **Note:** First Collaborative game project created in 2023, representing an early look at my C++ and game development experience.
 
 # Built With
 - C++ (Object-Oriented Programming)
@@ -44,7 +46,7 @@ Top Down 2D Zombie game that can be played one or two player mode locally
 - 2 Different Quests
 - Reward and Buff gained from completing quests
 
-## Ui 
+## UI
 - Displaying Points
 - Displaying Kills
 - Displaying Equipped Gun
@@ -68,3 +70,13 @@ Top Down 2D Zombie game that can be played one or two player mode locally
 > **Note:** Infinite points given for this version
 
 # Demos
+![zgif1](demogifs/zgif1.gif)
+![zgif1](demogifs/zgif2.gif)
+![zgif1](demogifs/zgif3.gif)
+
+# Learning Experiences
+- Collaborating with Git and GitHub in a team environment
+- Managing game development between 2 people without merge conflicts
+- Gained deeper knowledge of C++ and early object-oriented programming experience
+- Learned C++ vector containers for managing bullets
+- Learned sprite management and animation integration
