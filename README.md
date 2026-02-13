@@ -63,3 +63,8 @@ Top Down 2D Zombie game that can be played one or two player mode locally
 - **** - Zombies, Different Zombie types + Boss Zombie, Map Walls, Wave System, Animated Menu Screen
 
 # How to Setup
+- Clone Repository
+- Run the executable: `main.exe`
+> **Note:** Infinite points given for this version
+
+# Demos
