@@ -60,6 +60,6 @@ Top Down Zombie game that can be played one or two player mode locally
 
 # Contributors
 - **Mayar Al Jawhary** - All above Contributions
-- **** - Zombies, Different Zombie types + Boss Zombie, Zombie AI, Walls around the map, Wave System, Animated Menu Screen
+- **** - Zombies, Different Zombie types + Boss Zombie, Map Walls, Wave System, Animated Menu Screen
 
 # How to Setup
