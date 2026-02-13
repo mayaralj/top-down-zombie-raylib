@@ -1,7 +1,7 @@
 # top-down-zombie-raylib
 
 # About
-Top Down Zombie game that can be played one or two player mode locally
+Top Down 2D Zombie game that can be played one or two player mode locally
 
 # Built With
 - C++ (Object-Oriented Programming)
