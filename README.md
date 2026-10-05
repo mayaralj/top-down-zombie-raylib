@@ -1,11 +1,11 @@
-# top-down-zombie-raylib
+# Top-Down Zombie Shooter
 
 # About
 A 2D top-down zombie survival game with local multiplayer support, featuring multiple weapons, perks, and quest systems.
 
 > **Note:** First Collaborative game project created in 2023, representing an early look at my C++ and game development experience.
 
-# Demos
+# Gameplay Demos
 ![zgif1](demogifs/zgif1.gif)
 ![zgif1](demogifs/zgif2.gif)
 ![zgif1](demogifs/zgif3.gif)
