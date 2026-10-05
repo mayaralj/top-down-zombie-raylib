@@ -5,6 +5,11 @@ A 2D top-down zombie survival game with local multiplayer support, featuring mul
 
 > **Note:** First Collaborative game project created in 2023, representing an early look at my C++ and game development experience.
 
+# Demos
+![zgif1](demogifs/zgif1.gif)
+![zgif1](demogifs/zgif2.gif)
+![zgif1](demogifs/zgif3.gif)
+
 # Built With
 - C++ (Object-Oriented Programming)
 - Raylib (Game Development Library)
@@ -60,19 +65,16 @@ A 2D top-down zombie survival game with local multiplayer support, featuring mul
 - Gun Sprites for each gun
 - Animated Bullet Sprites
 
-# Contributors
-- **Mayar Al Jawhary** - All above Contributions
-- **** - Zombies, Different Zombie types + Boss Zombie, Map Walls, Wave System, Animated Menu Screen
+## Collaboration
+
+This project was developed by two developers. I implemented the player, weapon, perk, points, quest, UI, and visual systems described above.
+
+The other developer implemented the zombie systems and types, boss zombie, map walls, wave system, and animated menu screen.
 
 # How to Setup
 - Clone Repository
 - Run the executable: `main.exe`
 > **Note:** Infinite points given for this version
-
-# Demos
-![zgif1](demogifs/zgif1.gif)
-![zgif1](demogifs/zgif2.gif)
-![zgif1](demogifs/zgif3.gif)
 
 # Learning Experiences
 - Collaborating with Git and GitHub in a team environment
